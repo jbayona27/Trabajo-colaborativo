@@ -2,7 +2,7 @@
 public class COLORBALL {
 	    public static void main(String[] args) {
 	        Pregunta[] preguntas = {
-	            new Pregunta("Como se dice rojo en ingles?", new Respuesta[] {
+	            new Pregunta("Soy un niño?", new Respuesta[] {
 	                new Respuesta("red", 'A', true),
 	                    new Respuesta("blue", 'B', false),
 	                    new Respuesta("yellow", 'C', false),
@@ -10,7 +10,7 @@ public class COLORBALL {
 	                    new Respuesta("black", 'E', false),
 	                    new Respuesta("white", 'F', false)
 	            }),
-	            new Pregunta("Como se dice amarillo en ingles?", new Respuesta[] {
+	            new Pregunta("Soy una niña?", new Respuesta[] {
 	                new Respuesta("red", 'A', false),
 	                    new Respuesta("blue", 'B', false),
 	                    new Respuesta("green", 'C', false),
