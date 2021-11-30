@@ -1,1 +1,78 @@
 
+public class COLORBALL {
+	    public static void main(String[] args) {
+	        Pregunta[] preguntas = {
+	            new Pregunta("Como se dice rojo en ingles?", new Respuesta[] {
+	                new Respuesta("red", 'A', true),
+	                    new Respuesta("blue", 'B', false),
+	                    new Respuesta("yellow", 'C', false),
+	                    new Respuesta("green", 'D', false),
+	                    new Respuesta("black", 'E', false),
+	                    new Respuesta("white", 'F', false)
+	            }),
+	            new Pregunta("Como se dice amarillo en ingles?", new Respuesta[] {
+	                new Respuesta("red", 'A', false),
+	                    new Respuesta("blue", 'B', false),
+	                    new Respuesta("green", 'C', false),
+	                    new Respuesta("yellow", 'D', true),
+	                    new Respuesta("white", 'E', false),
+	                    new Respuesta("black", 'F', false)
+	            }),
+	        };
+
+	        for (Pregunta p: preguntas) {
+	            p.preguntar();
+	        }
+	    }
+	}
+
+	class Pregunta {
+	    private String pregunta;
+	    private Respuesta[] respuestasPosibles;
+	    public Pregunta(String pregunta, Respuesta[] respuestasPosibles) {
+	        this.pregunta = pregunta;
+	        this.respuestasPosibles = respuestasPosibles;
+	    }
+
+	    public void preguntar() {
+	        System.out.println(this.pregunta);
+	        char letraCorrecta = 'A';
+	        for (Respuesta opcion: this.respuestasPosibles) {
+	            if (opcion.esCorrecta()) letraCorrecta = opcion.getLetra();
+	            System.out.print(String.valueOf(opcion.getLetra()) + ")" + opcion.getRespuesta() + " ");
+	        }
+	        System.out.println("\nElige: ");
+	        Scanner sc = new Scanner(System.in);
+	        char letraElegidaPorElUsuario = sc.next().toUpperCase().charAt(0);
+	        if (letraElegidaPorElUsuario == letraCorrecta)
+	            System.out.println("Correcto");
+	        else
+	            System.out.println("Incorrecto, la respuesta correcta era " + String.valueOf(letraCorrecta));
+	    }
+	}
+
+	class Respuesta {
+	    private String respuesta;
+	    private char letra;
+	    private boolean correcta;
+
+	    public Respuesta(String respuesta, char letra, boolean correcta) {
+	        this.respuesta = respuesta;
+	        this.letra = letra;
+	        this.correcta = correcta;
+	    }
+
+	    public String getRespuesta() {
+	        return this.respuesta;
+	    }
+
+	    public char getLetra() {
+	        return this.letra;
+	    }
+
+	    public boolean esCorrecta() {
+	        return this.correcta;
+	    }
+
+	}
+
