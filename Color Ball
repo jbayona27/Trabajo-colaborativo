@@ -2,21 +2,26 @@
 public class COLORBALL {
 	    public static void main(String[] args) {
 	        Pregunta[] preguntas = {
-	            new Pregunta("Soy un niño?", new Respuesta[] {
-	                new Respuesta("red", 'A', true),
-	                    new Respuesta("blue", 'B', false),
-	                    new Respuesta("yellow", 'C', false),
-	                    new Respuesta("green", 'D', false),
-	                    new Respuesta("black", 'E', false),
-	                    new Respuesta("white", 'F', false)
+	            new Pregunta("Soy un niño?", new Respuesta[]{
+		    new Respuesta(true),
+		    new Respuesta(false),
+		    }
+		    new Pregunta("Soy una niña?", new Respuesta[] {
+		    new Respuesta(true),
+		    new Respuesta(false),
+		    }
+		    new Pregunta("green", new Respuesta[] {
+	                    new Respuesta("amarillo", false),
+	                    new Respuesta("azul", false),
+	                    new Respuesta("verde", true),
+	                    
 	            }),
-	            new Pregunta("Soy una niña?", new Respuesta[] {
-	                new Respuesta("red", 'A', false),
-	                    new Respuesta("blue", 'B', false),
-	                    new Respuesta("green", 'C', false),
-	                    new Respuesta("yellow", 'D', true),
-	                    new Respuesta("white", 'E', false),
-	                    new Respuesta("black", 'F', false)
+	            
+	                new Pregunta("red", new Respuesta[] {
+	                    new Respuesta("blanco", 'B', false),
+	                    new Respuesta("negro", 'C', false),
+	                    new Respuesta("rojo", 'D', true),
+	                    
 	            }),
 	        };
 
