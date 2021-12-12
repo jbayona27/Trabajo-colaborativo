@@ -1,0 +1,309 @@
+[
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "White",
+        "respuesta": "Blanco",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Rojo",
+        "imagen": "https://i.ibb.co/PGRD19H/30c3063c221758d4b4ad7c56974eef98-1.jpg",
+        "objectFit": "cover"
+    },
+       {
+        "categoria": "Colores en ingles",
+        "pregunta": "Blue",
+        "respuesta": "Azul",
+        "incorrecta1": "Cafe",
+        "incorrecta2": "Negro",
+        "imagen": "https://i.ibb.co/KNCNjhj/kisspng-blue-sky-studios-rio-film-clip-art-animation-5ab7fda0343ba2-732043451522007456214.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Teal",
+        "respuesta": "Verde azulado",
+        "incorrecta1": "Azul",
+        "incorrecta2": "Rojo",
+        "imagen": "https://i.ibb.co/N77r5c5/640px-Turquoise-pebble-700pix.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Light blue",
+        "respuesta": "Celeste",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Dorado",
+        "imagen": "https://i.ibb.co/B3MwWrw/bf4301076208dcf0a89ede9e9daae64d-silk-flowers-flower-petals.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Dark blue",
+        "respuesta": "Azul oscuro",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Amarillo",
+        "imagen": "https://i.ibb.co/zh2jYcv/3a1ed7b6322ae4acc2176958486e95b7.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "navy blue",
+        "respuesta": "Azul marino",
+        "incorrecta1": "turquesa",
+        "incorrecta2": "Verde",
+        "imagen": "https://i.ibb.co/ftm6Zbq/gsp-002-a-gorra-sandwich-color-azul-marino.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "turquoise",
+        "respuesta": "Turquesa",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Azul marino",
+        "imagen": "https://i.ibb.co/ZgznWPt/41-OX2dj-Ixm-L-AC.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "light green",
+        "respuesta": "verde claro",
+        "incorrecta1": "Turquesa",
+        "incorrecta2": "Rojo",
+        "imagen": "https://i.ibb.co/Lv4sjyH/8191ccfc5aafbad79de70ce70cbee4d7.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Dark green",
+        "respuesta": "Verde oscuro",
+        "incorrecta1": "Azul",
+        "incorrecta2": "Amarillo",
+        "imagen": "https://i.ibb.co/PGwfSxz/malaquita-de-color-verde-oscuro-71992200.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Magenta",
+        "respuesta": "Magenta",
+        "incorrecta1": "Morado",
+        "incorrecta2": "Gris",
+        "imagen": "https://i.ibb.co/vDzyVGc/240px-Dianthus-4.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Smerald",
+        "respuesta": "Verde esmeralda",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Rojo",
+        "imagen": "https://i.ibb.co/kXZ0VKd/descarga.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Fuchsia",
+        "respuesta": "Fucsia",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/nmVjMBq/5a97554efc63e185131e28e5c51f8533-rosa-pink-pink-light.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "lilac",
+        "respuesta": "lila",
+        "incorrecta1": "Amarilla",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/McBVRsk/1ffca8cab2c8b114a581a4b703404940.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Gold",
+        "respuesta": "Dorado",
+        "incorrecta1": "Blanco",
+        "incorrecta2": "Verde",
+        "imagen": "https://i.ibb.co/t2DNKXF/color-dorado-1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Silver",
+        "respuesta": "Plateado",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Rojo",
+        "imagen": "https://i.ibb.co/k624R0M/monedas-plata.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Copper",
+        "respuesta": "Cobre",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Verde esmeralda",
+        "imagen": "https://i.ibb.co/BKjC3RS/aec988ccd1045ce0aacd82348a3840c7-copper-art-copper-jewelry.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Beige",
+        "respuesta": "Beige",
+        "incorrecta1": "Morado",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/HX1FQtJ/Beige-Bear-Plush-Soft-Stuffed-Gift-Toys-Teddy-for-Kids.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Magenta",
+        "respuesta": "Magenta",
+        "incorrecta1": "Rojo",
+        "incorrecta2": "Blanco",
+        "imagen": "https://i.ibb.co/BKjC3RS/aec988ccd1045ce0aacd82348a3840c7-copper-art-copper-jewelry.jpghttps://i.ibb.co/b6fSNV8/beige.jpghttps://i.ibb.co/bQRM0HX/51o-Eg-Hki-Ip-L-AC-SL1000.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Tan",
+        "respuesta": "Marron claro",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Negro",
+        "imagen": "https://i.ibb.co/k5J7FKx/wooden-texture-light-brown-colors-1143338.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Aquamarine",
+        "respuesta": "Aguamarina",
+        "incorrecta1": "Dorado",
+        "incorrecta2": "Plateado",
+        "imagen": "https://i.ibb.co/sKrfqCq/color-verde-agua.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Crimson",
+        "respuesta": "Carmesi",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/4SmjSZf/41-Tku-Yvj2-RL-AC-SY450.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Green",
+        "respuesta": "Verde",
+        "incorrecta1": "Morado",
+        "incorrecta2": "Cafe",
+        "imagen": "https://i.ibb.co/SPfkZrN/1074487.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Red",
+        "respuesta": "Rojo",
+        "incorrecta1": "Azul",
+        "incorrecta2": "Amarillo",
+        "imagen": "https://i.ibb.co/KK65fy4/mazda-color-rojo-1621346421.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Orange",
+        "respuesta": "Naranja",
+        "incorrecta1": "Cafe",
+        "incorrecta2": "Morado",
+        "imagen": "https://i.ibb.co/XSgvZT3/Naranja-La-historia-detr-s-de-la-fruta-y-el-color-1280x720.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Yellow",
+        "respuesta": "Amarillo",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Rojo",
+        "imagen": "https://i.ibb.co/xYDrvPN/AMARILLO-4.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Pink",
+        "respuesta": "Rosado",
+        "incorrecta1": "Azul",
+        "incorrecta2": "Morado",
+        "imagen": "https://i.ibb.co/jGCpRXV/71-W7z-ZHMIc-L-AC-SX425.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Purple",
+        "respuesta": "Morado",
+        "incorrecta1": "Rojo",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/kDsnrp2/como-hacer-color-morado-49903-600-square.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Gray",
+        "respuesta": "Gris",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Blanco",
+        "imagen": "https://i.ibb.co/X2wyFP7/rat-n-gris-caricatura-peque-o-dibujo-animado-vector-o-ilustraci-n-de-color-caricaturizado-en-las-pra.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Brown",
+        "respuesta": "Marron",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/Xp6ph7k/color-marron-francisco-torreblanca.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Violet",
+        "respuesta": "Violeta",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/T0SVqrn/150710142400-purpura-promos-624x351-thinkstock.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Colores en ingles",
+        "pregunta": "Black",
+        "respuesta": "Negro",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Azul",
+        "imagen": "https://i.ibb.co/SrhtC55/d57982bc310f7fad3fed0488ba3864ca.jpg",
+        "objectFit": "cover"
+    }
+     
+]
